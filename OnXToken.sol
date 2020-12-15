@@ -807,14 +807,14 @@ contract OnXTokenTest is ERC20('OnX.finance', 'OnX') {
     address public exchangeAirdropCampaign;
     address public treasuryAddress;
 
-    // mints 400,000 OnX for Exchange airdrop & 300,000 for Development Fund >
+    // mints 400,000 OnX for Exchange airdrop & 275,685 for Treasury >
     constructor (address _exchange, address _treasury) public {
 
         exchangeAirdropCampaign = _exchange;
         treasuryAddress = _treasury;
 
         mintTo(exchangeAirdropCampaign, 400000000000000000000000);
-        mintTo(treasuryAddress, 300000000000000000000000);
+        mintTo(treasuryAddress, 275685000000000000000000);
     }
 
     /// @notice Creates `_amount` token to `_to`. Must only be called by the owner.
