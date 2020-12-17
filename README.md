@@ -1,6 +1,6 @@
 # OnX.finance-Core
 
-## OnX.finance ONX Token Mainnet: https://etherscan.io/address/0x8438c3115d90b6d0b21be5718c773c7258dfcf39
-## OnX.finance Farming Mainnet:  https://etherscan.io/address/0xbd852af274e5534b5c7e134b3535745680529fb6
-## 100,000 (1%) Pre-mint Timelock: https://etherscan.io/address/0x51f3a15b0effe703dea9b4627deea5400ad49d66
+## OnX.finance ONX Token Mainnet: https://etherscan.io/address/0xe0ad1806fd3e7edf6ff52fdb822432e847411033
+## OnX.finance Farming Mainnet:  https://etherscan.io/address/0x168f8469ac17dd39cd9a2c2ead647f814a488ce9
+## 100,000 (1%) Pre-mint Timelock: https://etherscan.io/address/0x5716749e23c94c0d03ed03b9ab951d6686d385e1
 
